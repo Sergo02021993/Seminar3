@@ -14,11 +14,9 @@
 
     git status
     
-### Домашнее задание
+Что бы добавить изменения из рабочего каталога в раздел проиндексированных файлов нужно ввести:
 
-1.git init
-2.git status
-3.git add
+    git add
 4.git commit
 5.git commit -m "message"
 6.git commit -a
