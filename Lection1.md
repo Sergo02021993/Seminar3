@@ -56,3 +56,6 @@
 
     git branch branch_name
 
+Если вам необходимо удалить ветку введите в терминале следующее: 
+
+    git branch -d branch_name
